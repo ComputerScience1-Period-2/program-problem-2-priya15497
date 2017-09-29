@@ -1,0 +1,5 @@
+﻿  displaytext.cpp
+c:\cs\project1\project1\displaytext.cpp(34): warning C4101: 'calc_4': unreferenced local variable
+c:\cs\project1\project1\displaytext.cpp(34): warning C4101: 'calc_5': unreferenced local variable
+  Project1.vcxproj -> C:\cs\Project1\Debug\voijd.exe
+  Project1.vcxproj -> C:\cs\Project1\Debug\voijd.pdb (Partial PDB)
